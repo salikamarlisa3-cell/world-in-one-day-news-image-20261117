@@ -1,6 +1,10 @@
-// A working news-image-daily entry (Node 22, standard library only): its image is the entry.png beside this file, and
-// the program copies it to /output/entry.png. A starting point, not a winner: replace the image. The gate takes a
-// whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels, and the judge sees exactly the bytes copied.
+// Entry for news-image-20261117: "The World in One Day" — a newspaper front
+// page summing up Tuesday 17 November 2026 (Manila summit day, the global
+// tech-outage wave, the Knesset speaker vote, Spain's welfare push, the US
+// measles-status loss and Mumbai's Earthshot prizes). The artwork is authored
+// in poster.svg and rendered to entry.png by generate.mjs; this program
+// (Node 22, standard library only) copies that image to /output/entry.png,
+// byte for byte, exactly as the judge will see it.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts

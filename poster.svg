@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6c453"/>
+      <stop offset="1" stop-color="#e2703a"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d6f8e"/>
+      <stop offset="1" stop-color="#123f5c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- paper -->
+  <rect x="0" y="0" width="1024" height="1024" fill="#f7f1e3"/>
+  <rect x="10" y="10" width="1004" height="1004" fill="none" stroke="#14213d" stroke-width="3"/>
+
+  <!-- masthead -->
+  <text x="512" y="72" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="57" font-weight="bold" fill="#14213d" letter-spacing="1">THE WORLD IN ONE DAY</text>
+  <rect x="24" y="90" width="976" height="40" fill="#14213d"/>
+  <text x="512" y="119" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="24" font-weight="bold" fill="#f7f1e3" letter-spacing="4">TUESDAY &#183; 17 NOVEMBER 2026</text>
+
+  <!-- HERO: MANILA -->
+  <g>
+    <rect x="24" y="146" width="636" height="368" fill="#fbf7ec" stroke="#14213d" stroke-width="2.5"/>
+    <rect x="40" y="162" width="604" height="176" fill="url(#sky)"/>
+    <circle cx="556" cy="226" r="44" fill="#ffe9a8"/>
+    <circle cx="556" cy="226" r="58" fill="#ffe9a8" opacity="0.35"/>
+    <g fill="#274156">
+      <rect x="52" y="262" width="34" height="76"/>
+      <rect x="94" y="240" width="26" height="98"/>
+      <rect x="128" y="272" width="44" height="66"/>
+      <rect x="180" y="252" width="30" height="86"/>
+      <rect x="218" y="282" width="52" height="56"/>
+      <rect x="470" y="256" width="30" height="82"/>
+      <rect x="508" y="276" width="40" height="62"/>
+      <rect x="556" y="246" width="24" height="92"/>
+      <rect x="588" y="268" width="44" height="70"/>
+    </g>
+    <rect x="40" y="306" width="604" height="32" fill="url(#sea)"/>
+    <g>
+      <line x1="300" y1="238" x2="300" y2="306" stroke="#14213d" stroke-width="3"/>
+      <path d="M300 238 L332 246 L300 254 Z" fill="#c0392b"/>
+      <line x1="342" y1="238" x2="342" y2="306" stroke="#14213d" stroke-width="3"/>
+      <path d="M342 238 L374 246 L342 254 Z" fill="#2471a3"/>
+      <line x1="384" y1="238" x2="384" y2="306" stroke="#14213d" stroke-width="3"/>
+      <path d="M384 238 L416 246 L384 254 Z" fill="#e0a526"/>
+    </g>
+    <text x="40" y="382" font-family="'DejaVu Sans', sans-serif" font-size="16" font-weight="bold" fill="#c0392b" letter-spacing="3">MANILA &#183; DIPLOMACY</text>
+    <text x="40" y="424" font-family="Georgia, 'DejaVu Serif', serif" font-size="37" font-weight="bold" fill="#14213d">SUMMIT DAY IN MANILA</text>
+    <text x="40" y="458" font-family="'DejaVu Sans', sans-serif" font-size="20" fill="#263238">ASEAN&#8217;s 49th summit closes as Trump lands for the first</text>
+    <text x="40" y="484" font-family="'DejaVu Sans', sans-serif" font-size="20" fill="#263238">Quad summit since 2024. Guterres urges the great powers</text>
+    <text x="40" y="510" font-family="'DejaVu Sans', sans-serif" font-size="20" fill="#263238">to denuclearise; the chair passes to Singapore.</text>
+  </g>
+
+  <!-- TECH OUTAGE -->
+  <g>
+    <rect x="676" y="146" width="324" height="368" fill="#101c30" stroke="#14213d" stroke-width="2.5"/>
+    <rect x="692" y="162" width="292" height="108" fill="#0a1424" stroke="#3d5a80" stroke-width="2"/>
+    <rect x="692" y="182" width="180" height="11" fill="#c0392b"/>
+    <rect x="716" y="204" width="268" height="11" fill="#3d5a80"/>
+    <rect x="692" y="226" width="120" height="11" fill="#e0a526"/>
+    <rect x="740" y="248" width="244" height="11" fill="#577590"/>
+    <text x="692" y="302" font-family="'DejaVu Sans', sans-serif" font-size="13" font-weight="bold" fill="#e0a526" letter-spacing="2">WORLDWIDE &#183; TECHNOLOGY</text>
+    <text x="692" y="338" font-family="Georgia, 'DejaVu Serif', serif" font-size="29" font-weight="bold" fill="#f7f1e3">THE DAY THE</text>
+    <text x="692" y="371" font-family="Georgia, 'DejaVu Serif', serif" font-size="29" font-weight="bold" fill="#f7f1e3">SCREENS WENT</text>
+    <text x="692" y="404" font-family="Georgia, 'DejaVu Serif', serif" font-size="29" font-weight="bold" fill="#f7f1e3">DARK</text>
+    <text x="692" y="436" font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#cfd8dc">Outages hit Microsoft, US</text>
+    <text x="692" y="460" font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#cfd8dc">flights, JPMorgan, the NSA</text>
+    <text x="692" y="484" font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#cfd8dc">and Apple. A $6.3bn Binance</text>
+    <text x="692" y="508" font-family="'DejaVu Sans', sans-serif" font-size="17" fill="#cfd8dc">hack is blamed on N. Korea.</text>
+  </g>
+
+  <!-- PANEL: JERUSALEM -->
+  <g>
+    <rect x="24" y="530" width="232" height="356" fill="#fbf7ec" stroke="#14213d" stroke-width="2.5"/>
+    <g stroke="#274156" stroke-width="5">
+      <line x1="52" y1="612" x2="52" y2="566"/>
+      <line x1="84" y1="612" x2="84" y2="566"/>
+      <line x1="116" y1="612" x2="116" y2="566"/>
+      <line x1="148" y1="612" x2="148" y2="566"/>
+      <line x1="180" y1="612" x2="180" y2="566"/>
+      <line x1="212" y1="612" x2="212" y2="566"/>
+    </g>
+    <path d="M40 566 L140 540 L240 566 Z" fill="#274156"/>
+    <rect x="40" y="612" width="200" height="8" fill="#274156"/>
+    <text x="140" y="676" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="40" font-weight="bold" fill="#c0392b">66&#8211;52</text>
+    <text x="40" y="710" font-family="'DejaVu Sans', sans-serif" font-size="14" font-weight="bold" fill="#c0392b" letter-spacing="2">JERUSALEM</text>
+    <text x="40" y="740" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">KNESSET OUSTS</text>
+    <text x="40" y="764" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">NETANYAHU ALLY</text>
+    <text x="40" y="796" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Eisenkot&#8217;s bloc puts</text>
+    <text x="40" y="819" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Matan Kahana in as</text>
+    <text x="40" y="842" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">speaker, ousting a</text>
+    <text x="40" y="865" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Netanyahu loyalist.</text>
+  </g>
+
+  <!-- PANEL: MADRID -->
+  <g>
+    <rect x="272" y="530" width="232" height="356" fill="#fbf7ec" stroke="#14213d" stroke-width="2.5"/>
+    <circle cx="388" cy="586" r="34" fill="#e0a526" stroke="#b97f14" stroke-width="4"/>
+    <text x="388" y="600" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="36" font-weight="bold" fill="#7a5203">&#8364;</text>
+    <text x="388" y="676" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="40" font-weight="bold" fill="#c0392b">&#8364;1.5bn</text>
+    <text x="288" y="710" font-family="'DejaVu Sans', sans-serif" font-size="14" font-weight="bold" fill="#c0392b" letter-spacing="2">MADRID</text>
+    <text x="288" y="740" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">SPAIN&#8217;S WELFARE</text>
+    <text x="288" y="764" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">SPENDING PUSH</text>
+    <text x="288" y="796" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">S&#225;nchez&#8217;s Socialists</text>
+    <text x="288" y="819" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">approve &#8364;1.5bn+ of</text>
+    <text x="288" y="842" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">benefits before the</text>
+    <text x="288" y="865" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">29 Nov snap election.</text>
+  </g>
+
+  <!-- PANEL: AMERICAS HEALTH -->
+  <g>
+    <rect x="520" y="530" width="232" height="356" fill="#fbf7ec" stroke="#14213d" stroke-width="2.5"/>
+    <path d="M636 552 L678 568 V606 C678 636 660 652 636 662 C612 652 594 636 594 606 V568 Z" fill="#2471a3"/>
+    <path d="M612 580 L636 606 L628 640" stroke="#f7f1e3" stroke-width="5" fill="none"/>
+    <circle cx="664" cy="586" r="5" fill="#f7f1e3"/>
+    <circle cx="618" cy="622" r="4" fill="#f7f1e3"/>
+    <text x="636" y="676" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="24" font-weight="bold" fill="#c0392b">STATUS LOST</text>
+    <text x="536" y="710" font-family="'DejaVu Sans', sans-serif" font-size="13" font-weight="bold" fill="#c0392b" letter-spacing="1">AMERICAS &#183; HEALTH</text>
+    <text x="536" y="740" font-family="Georgia, 'DejaVu Serif', serif" font-size="19" font-weight="bold" fill="#14213d">US LOSES ITS</text>
+    <text x="536" y="764" font-family="Georgia, 'DejaVu Serif', serif" font-size="19" font-weight="bold" fill="#14213d">MEASLES-FREE TAG</text>
+    <text x="536" y="796" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Cases hit a 30-year</text>
+    <text x="536" y="819" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">high; Mexico &amp; Bolivia</text>
+    <text x="536" y="842" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">lose the tag too.</text>
+  </g>
+
+  <!-- PANEL: MUMBAI EARTHSHOT -->
+  <g>
+    <rect x="768" y="530" width="232" height="356" fill="#fbf7ec" stroke="#14213d" stroke-width="2.5"/>
+    <circle cx="884" cy="592" r="36" fill="#2471a3"/>
+    <path d="M858 578 C868 566 884 574 884 586 C884 574 900 566 910 578 C904 596 896 606 884 622 C872 606 864 596 858 578 Z" fill="#7fb069"/>
+    <path d="M884 622 C884 606 884 590 884 578" stroke="#4c7a3f" stroke-width="3" fill="none"/>
+    <text x="884" y="676" text-anchor="middle" font-family="Georgia, 'DejaVu Serif', serif" font-size="40" font-weight="bold" fill="#2e7d32">&#163;1M &#215; 5</text>
+    <text x="784" y="710" font-family="'DejaVu Sans', sans-serif" font-size="14" font-weight="bold" fill="#c0392b" letter-spacing="2">MUMBAI &#183; CLIMATE</text>
+    <text x="784" y="740" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">EARTHSHOT: FIVE</text>
+    <text x="784" y="764" font-family="Georgia, 'DejaVu Serif', serif" font-size="20" font-weight="bold" fill="#14213d">CLIMATE PRIZES</text>
+    <text x="784" y="796" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Five &#163;1m Earthshot</text>
+    <text x="784" y="819" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">prizes awarded in</text>
+    <text x="784" y="842" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">Mumbai as William</text>
+    <text x="784" y="865" font-family="'DejaVu Sans', sans-serif" font-size="16" fill="#263238">and Kate attend.</text>
+  </g>
+
+  <!-- TICKER -->
+  <rect x="24" y="902" width="976" height="66" fill="#14213d"/>
+  <text x="40" y="930" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#f7f1e3">ALSO: GERMAN INVESTOR MOOD JUMPS &#8212; ZEW 35.6 &#183; EU CHARGES TEMU OVER ILLEGAL SALES &#183; BRENT $92.76</text>
+  <text x="40" y="956" font-family="'DejaVu Sans', sans-serif" font-size="15" font-weight="bold" fill="#f7f1e3">WORLD COURT RULES THURSDAY IN MYANMAR GENOCIDE CASE &#183; TRUMP, XI, PUTIN MEET IN SHENZHEN</text>
+  <text x="512" y="994" text-anchor="middle" font-family="'DejaVu Sans', sans-serif" font-size="14" fill="#5d6d7e">Drawn from the day&#8217;s reporting by Reuters, AP, the BBC and the Philippine News Agency.</text>
+</svg>
